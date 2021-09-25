@@ -1,6 +1,6 @@
 ### hi.
 
-[website](https://dukmastaaa.github.io) 
+here's my [website](https://dukmastaaa.github.io). currently work-in-progress. 
 
 <!--
 **DukMastaaa/DukMastaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
