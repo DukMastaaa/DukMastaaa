@@ -1,7 +1,5 @@
 ### hi.
 
-meow
-
 [website](https://dukmastaaa.github.io) 
 
 <!--
